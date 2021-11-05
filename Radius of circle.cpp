@@ -2,8 +2,8 @@
 int main()
 {
     printf("这是一个没用的工具来计算圆的相关问题！");
-	printf("\n");
-	printf("大佬嘴下留情awa");
+    printf("\n");
+    printf("大佬嘴下留情awa");
     printf("\n");
     const float pi = 3.14;
     float r;
